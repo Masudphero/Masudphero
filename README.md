@@ -1,36 +1,85 @@
-## Hi there 👋
-
-<!--
-**Masudphero/Masudphero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, I'm Masud Rana
-#### web developer
-[[![web developer](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/462628117_1780379769163658_2479806875988828080_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGQRf4dhwk3PowRlmFSDPP7HgzR06TqEE8eDNHTpOoQT8Wm6V9X_RqOk72CSKQCbhS_94KJkqSLlNXFGPagBr0Q&_nc_ohc=tpYvrnElH6MQ7kNvgFyD6KQ&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=AaEWP1uL67P8Omuu5SniG0a&oh=00_AYB7tCnHI43W4mVKwbgY7KkNmwsSkMI04VrsMjg6z1rXqA&oe=6750D07A)](https://www.facebook.com/photo/?fbid=1838527766682191&set=a.208125579722426)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on programming 
-- 🌱 I’m currently learning javascript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about web developer 
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/the-nazzmul/the-nazzmul/refs/heads/main/nazmul-hussain.png)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Masudphero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100015749551056&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mdmasudrana8547?igsh=NXBscjA5M3B4ZmR0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@msbdcontent2556)  
+###
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<h1 align="center">Hello There..👋🏽 I am Nazmul Hussain!</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-nazzmul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=the-nazzmul&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+###
+
+<h2 align="center">About me</h2>
+
+###
+
+<p align="left">I am a Web Developer with expertise in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS. Nowadays, I work mostly with Next.js framework for full-stack applications. But I am comfortable with building servers with Express.js, Mongoose, TypeScript, and MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I don’t know everything, so each day allows me to learn something new and improve.</p>
+
+###
+
+<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Postgresql<br>🎯 Goals: Make web applications that make life easy.<br>🎲 Fun fact: I love motorcycles and cameras</h5>
+
+###
+
+<h2 align="center">I code with</h2>
+
+###
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+
+<h2 align="center">Connect with me</h2>
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nazmul-hussain-utchchash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/nazzmul.hussain.utchchash" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+
 
 
 
