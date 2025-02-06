@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">Hello There..👋🏽 I am Nazmul Hussain!</h1>
+<h1 align="center">Hello There..👋🏽 I am Masud Rana!</h1>
 
 ###
 
