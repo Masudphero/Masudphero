@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Eray+Demircioglu!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm Masud Rana!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <div align="center">
