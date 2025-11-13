@@ -39,5 +39,5 @@
 </div> 
 
 <div align="center"> 
-  <img src="https://github.com/mdmasudranaph1/mdmasudranaph1/blob/main/github-user-contribution.svg" alt="github contribution grid snake animation" /> 
+ <img  src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/github-user-contribution.svg" alt="github contribution grid snake animation" />
 </div>
