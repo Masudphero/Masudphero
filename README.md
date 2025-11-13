@@ -1,55 +1,43 @@
-<img src="https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/488258768_1906819359853031_4211144406282823139_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFrfdSEMQexMuW3spSdURjrzQOmM05HahnNA6YzTkdqGZTw1a3LfCNN-WhAXIRW6IbpelpwGRYdSumWdkLSCyhB&_nc_ohc=i5-SKUjLBlgQ7kNvwEiuCW5&_nc_oc=AdnDXgP0F4iFekEaxBNgJ_WKRK5befIT6U6_idHeivsMcpm3ct5lPeo1S_p0_rQgGGg&_nc_zt=23&_nc_ht=scontent.fdac142-1.fna&_nc_gid=5AUdq1P2Mt1TA9r1kxGfFA&oh=00_AffmDybTcw_bgLEC7_5RS4qjLfLx78qI1F_sBDaPRC8IcQ&oe=690A19C7" width="100%" />
-
-<h1 align="center">👋🏽 Hello There! I'm Masud Rana</h1>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masudphero&show_icons=true&theme=dark&hide_border=false" alt="GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Masudphero&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="left">
-I am a <strong>Web Developer</strong> with expertise in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS.  
-I mostly work with the <strong>Next.js</strong> framework for building full-stack applications.  
-Comfortable with backend development using <strong>Express.js</strong>, <strong>Mongoose</strong>, and <strong>MongoDB</strong>.  
-I love creating seamless, functional, and user-friendly web apps.  
-Every day is a new opportunity to learn and grow as a developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Eray+Demircioglu!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
----
-
-<h5 align="left">
-✨ Creating bugs since 2022  
-📚 Currently learning: <strong>PostgreSQL</strong>  
-🎯 Goal: Build web apps that make life easier  
-🎲 Fun fact: I love motorcycles 🏍️ and cameras 📷  
-</h5>
-
----
-
-<h2 align="center">🧠 I Code With</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,prisma,mongodb,postgres,py" />
+  <a href="https://github.com/eraydmrcoglu">
+  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=eraydmrcoglu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraydmrcoglu&theme=algolia&layout=compact"/>
 </div>
 
----
+<div align="center" style="display: inline_block"><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/ProgrammingLanguages/typescript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/vuejs.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/redux.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/express.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/nestjs.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Devops/docker.svg" alt="docker" width="40" height="40"/>
+</div>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<br>
 
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100015749551056" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/masudrana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+  <a href="https://eray-demircioglu-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eraydemircioglu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.hackerrank.com/profile/c_eray" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@eraydmrcoglu" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+  <img  src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/github-user-contribution.svg" alt="github contribution grid snake animation" />
 </div>
