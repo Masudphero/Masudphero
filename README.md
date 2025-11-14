@@ -3,8 +3,13 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=masudrana-ph&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana-ph&theme=algolia&layout=compact"/>
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masudrana-ph&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana-ph&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <br>
@@ -29,5 +34,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/github-user-contribution.svg">
+  <img src="https://raw.githubusercontent.com/masudrana-ph/masudrana-ph/output/github-contribution-grid-snake.svg">
 </div>
